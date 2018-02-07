@@ -5,4 +5,4 @@ In this new project, I will use H5, CSS and original JS(jQuery) to create the wh
 ### What's the project look like
 This is one real-time shopping-mall website project, including products lists, product detail, customer register, customer login, customer purchase, checkout, and so on. All the interactive data between frontend and backend are real.
 
-
+One online-shop should have the following functions, products purchase, products show, purchase cart, products order, order center, and payment. And also have some customer information.
